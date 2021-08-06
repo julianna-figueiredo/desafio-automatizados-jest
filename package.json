@@ -1,0 +1,22 @@
+{
+  "name": "jest-extenso",
+  "version": "0.0.1",
+  "description": "Testes automatizados em Jest para validar numeros por extenso em portugues e ingles",
+  "main": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Jest",
+    "Numeros",
+    "Extenso",
+    "Portugues",
+    "Ingles"
+  ],
+  "author": "Julianna Figueiredo",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "supertest": "^6.1.4"
+  }
+}
