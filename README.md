@@ -45,7 +45,7 @@ Ele é gerado na raiz do projeto com o nome jest_html_reporters.html
 
 O GitHub talvez não deixe visualizar diretamente no navegador.
 
-Faça o download do relatório HTML deste [link](https://github.com/julianna-figueiredo/desafio-automatizados-jest/raw/master/jest_html_reporters.html) e abra o HTML local da sua máquina.
+Faça o download do relatório HTML neste [link](https://github.com/julianna-figueiredo/desafio-automatizados-jest/raw/master/jest_html_reporters.html) e abra o HTML local na sua máquina.
 
 ### Sobre
 
