@@ -4,7 +4,7 @@
   "description": "Testes automatizados em Jest para validar numeros por extenso em portugues e ingles",
   "main": "",
   "scripts": {
-    "test": "jest"
+    "test": "jest --reporters default jest-html-reporters"
   },
   "keywords": [
     "Jest",
